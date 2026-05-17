@@ -60,9 +60,9 @@ Model dievaluasi menggunakan metrik akurasi dan *Macro F1-Score* untuk memastika
 | Metrik Evaluasi | Nilai |
 | :--- | :--- |
 | **Accuracy** | 76.47% |
-| **F1-Score (Macro)** | 0.7609 |
-| **Precision (Macro)** | 0.7942 |
-| **Recall (Macro)** | 0.7647 |
+| **F1-Score (Macro)** | 76.09% |
+| **Precision (Macro)** | 79.42% |
+| **Recall (Macro)** | 76.47% |
 
 ### Analisis Per Kelas
 * Model memiliki performa sangat baik pada **kelas negatif** dengan **F1-Score 0.829**.
